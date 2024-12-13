@@ -9,6 +9,8 @@ Welcome to my GitHub profile! Here's a little bit about me:
 >🤔 I’m looking for help with code!
 
 <img src="https://github.com/user-attachments/assets/b7795e8e-9858-479c-bc52-ef2f410c13c7" alt="image" width="200" />
+<img src="https://github.com/user-attachments/assets/21a43344-84aa-4292-84c5-e7e21ea604e1" alt="image" width="200" />
+
 
 
 
