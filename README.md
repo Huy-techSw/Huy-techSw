@@ -2,8 +2,11 @@
 
 
 Welcome to my GitHub profile! Here's a little bit about me:
+
 >🌱 I’m currently learning FPT University
+
 >👯 I’m looking to collaborate on github
+
 >🤔 I’m looking for help with code!
 
 <!--
