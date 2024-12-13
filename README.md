@@ -1,6 +1,9 @@
 ## Hi there 👋
+
 🌱 I’m currently learning FPT University
+
 👯 I’m looking to collaborate on github
+
 🤔 I’m looking for help with code!
 
 <!--
