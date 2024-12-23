@@ -5,11 +5,11 @@
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
-> <img src="https://github.com/user-attachments/assets/22c991a3-72d6-4812-8a89-f83701ecbfdd" alt="icon" width="20" height="20" />  I’m currently learning FPT University
+> <img src="https://github.com/user-attachments/assets/22c991a3-72d6-4812-8a89-f83701ecbfdd" alt="icon" width="20" height="20" style="margin-right: 8px;"/>  I’m currently learning FPT University
 
-> <img src="https://github.com/user-attachments/assets/b42a44d4-f1d6-4416-b619-b23e0101c7b0" alt="icon" width="20" height="20" />  I’m looking to collaborate on github
+> <img src="https://github.com/user-attachments/assets/b42a44d4-f1d6-4416-b619-b23e0101c7b0" alt="icon" width="20" height="20" style="margin-right: 8px;"/>  I’m looking to collaborate on github
 
-> <img src="https://github.com/user-attachments/assets/332c2d58-4e2d-489e-8c44-c8b000a15ba5" alt="icon" width="20" height="20" />  I’m looking for help with code!
+> <img src="https://github.com/user-attachments/assets/332c2d58-4e2d-489e-8c44-c8b000a15ba5" alt="icon" width="20" height="20" style="margin-right: 8px;"/>  I’m looking for help with code!
 
 <div align="center" style="margin-top: 50px;">
   <img src="https://github.com/user-attachments/assets/2244595d-1b72-409c-8347-8a552ed08b7c" alt="image" width="700" height="200" />
