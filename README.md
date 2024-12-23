@@ -1,17 +1,20 @@
-## Hi there 👋
+<h1>
+  Hi there <img src="https://github.com/user-attachments/assets/649bfa40-72ed-4bef-9f79-e4b9ae17965d" alt="wave icon" width="30" height="30" style="margin-left: 10px;" />
+</h1>
+
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
->🌱 I’m currently learning FPT University
+> <img src="https://github.com/user-attachments/assets/22c991a3-72d6-4812-8a89-f83701ecbfdd" alt="icon" width="20" height="20" />  I’m currently learning FPT University
 
->👯 I’m looking to collaborate on github
+> <img src="https://github.com/user-attachments/assets/b42a44d4-f1d6-4416-b619-b23e0101c7b0" alt="icon" width="20" height="20" />  I’m looking to collaborate on github
 
->🤔 I’m looking for help with code!
->
+> <img src="https://github.com/user-attachments/assets/332c2d58-4e2d-489e-8c44-c8b000a15ba5" alt="icon" width="20" height="20" />  I’m looking for help with code!
 
-<div align="center">
+<div align="center" style="margin-top: 50px;">
   <img src="https://github.com/user-attachments/assets/2244595d-1b72-409c-8347-8a552ed08b7c" alt="image" width="700" height="200" />
 </div>
+
 
 
 
