@@ -8,7 +8,9 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 >🤔 I’m looking for help with code!
 
-![image](https://github.com/user-attachments/assets/7a60d57a-596d-4bf8-b88f-dc6fe67763ae)
+<img src="https://github.com/user-attachments/assets/2244595d-1b72-409c-8347-8a552ed08b7c" alt="image" width="800" height="200" />
+
+
 
 
 
