@@ -11,6 +11,11 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 > <img src="https://github.com/user-attachments/assets/332c2d58-4e2d-489e-8c44-c8b000a15ba5" alt="icon" width="20" height="20" style="margin-right: 8px;"/>  I’m looking for help with code!
 
+
+---
+
+
+
 <div align="center" style="margin-top: 50px;">
   <img src="https://github.com/user-attachments/assets/2244595d-1b72-409c-8347-8a552ed08b7c" alt="image" width="700" height="200" />
 </div>
