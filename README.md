@@ -11,11 +11,8 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 > <img src="https://github.com/user-attachments/assets/332c2d58-4e2d-489e-8c44-c8b000a15ba5" alt="icon" width="20" height="20" style="margin-right: 8px;"/>  I’m looking for help with code!
 ---
-[### 🌐 Huyfolio  
-<a href="https://huyfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link" />
-</a>
-](url)
+
+
 
 
 
@@ -30,6 +27,10 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 
 <!--
+### 🌐 Huyfolio  
+<a href="https://huyfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link" />
+</a>
 **Huy-techSw/Huy-techSw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://github.com/user-attachments/assets/97823045-933c-4cbc-8588-daa92f3f99d5" alt="image" width="200" height="250" />
