@@ -19,9 +19,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
   <img src="https://github.com/user-attachments/assets/2244595d-1b72-409c-8347-8a552ed08b7c" alt="image" width="700" height="200" />
 </div>
 
-<div align="center" style="margin-top: 50px;">
-  <img src="https://github.com/user-attachments/assets/2244595d-1b72-409c-8347-8a552ed08b7c" alt="image" width="700" height="200" />
-</div>
+
 
 
 
