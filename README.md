@@ -2,6 +2,10 @@
   Hi there <img src="https://github.com/user-attachments/assets/649bfa40-72ed-4bef-9f79-e4b9ae17965d" alt="wave icon" width="30" height="30" style="margin-left: 10px;" />
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A4DB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Software+Engineering" alt="Typing SVG" />
+</p>
+
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
