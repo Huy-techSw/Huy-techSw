@@ -1,49 +1,23 @@
-<h1 align="center">
-  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+<h1>
+  Hi there <img src="https://github.com/user-attachments/assets/649bfa40-72ed-4bef-9f79-e4b9ae17965d" alt="wave icon" width="30" height="30" style="margin-left: 10px;" />
 </h1>
 
 <p align="center">
-  Welcome to my GitHub profile! 🚀  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007EC6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Software+Engineer" alt="Typing SVG" />
 </p>
 
----
 
-## 🌟 About Me  
-- 🎓 Studying **Software Engineering** at **FPT University**  
-- 💡 Passionate about **Web Development & Automation**  
-- 🔍 Open to collaboration on **exciting projects**  
-- 🛠 Currently exploring **React, TypeScript & Chrome Extensions**  
+Welcome to my GitHub profile! Here's a little bit about me:
 
----
+> <img src="https://github.com/user-attachments/assets/22c991a3-72d6-4812-8a89-f83701ecbfdd" alt="icon" width="20" height="20" style="margin-right: 8px;"/>  I’m currently learning FPT University
 
-## ⚡ Tech Stack  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Chrome Extensions](https://img.shields.io/badge/-Chrome_Extensions-4285F4?style=flat&logo=google-chrome&logoColor=white)  
+> <img src="https://github.com/user-attachments/assets/b42a44d4-f1d6-4416-b619-b23e0101c7b0" alt="icon" width="20" height="20" style="margin-right: 8px;"/>  I’m looking to collaborate on github
 
----
-
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150"/>
-</div>
-
----
-
-## 🌍 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4081?style=for-the-badge&logo=google-chrome&logoColor=white)](https://huyfolio.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
-
----
-
-## 🎉 Fun Fact  
-> ⚡ *Coding is my superpower!*  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+> <img src="https://github.com/user-attachments/assets/332c2d58-4e2d-489e-8c44-c8b000a15ba5" alt="icon" width="20" height="20" style="margin-right: 8px;"/>  I’m looking for help with code!
+----
+<a href="https://huyfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link" />
+</a>
+<div align="center" style="margin-top: 50px;">
+  <img src="https://github.com/user-attachments/assets/2244595d-1b72-409c-8347-8a552ed08b7c" alt="image" width="700" height="200" />
 </div>
