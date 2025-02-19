@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 ----
 ### 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,cs,dotnet,firebase,nodejs,mongodb,postgresql,docker,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,cs,dotnet,firebase,docker,git" alt="Tech Stack" />
 </p>
 
 ---
