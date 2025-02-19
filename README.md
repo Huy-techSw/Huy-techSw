@@ -15,6 +15,12 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 > <img src="https://github.com/user-attachments/assets/332c2d58-4e2d-489e-8c44-c8b000a15ba5" alt="icon" width="20" height="20" style="margin-right: 8px;"/>  I’m looking for help with code!
 ----
+### 🛠️ **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,cs,dotnet,firebase,nodejs,mongodb,postgresql,docker,git" alt="Tech Stack" />
+</p>
+
+---
 <a href="https://huyfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link" />
 </a>
